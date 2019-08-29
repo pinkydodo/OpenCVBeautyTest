@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Whiten.cpp
+e:\project\testopencv\testopencv\whiten.cpp(27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\project\testopencv\testopencv\whiten.cpp(31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  TestOpencv.cpp
+  正在生成代码...
+opencv_world410.lib(opencv_world410.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“X86”冲突
